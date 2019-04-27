@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Leesson1/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson2/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module1/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module2/ConsoleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module2/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/HomeWork3_4/HomeWork3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeWork4_1/HomeWork4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeWork4_1/HomeWork4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeWork4_2/HomeWork4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeWork4_2/HomeWork4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeWork4_3/HomeWork4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeWork4_3/HomeWork4_3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +23,44 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork4_1/HomeWork4_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork3_4/HomeWork3_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork4_3/HomeWork4_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork4_2/HomeWork4_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,6 +119,10 @@
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/online/Main.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module2/src/by/pvt/string/MobilePhone.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module2/src/by/pvt/string/Main.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeWork4_3/HomeWork4_3.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeWork4_2/HomeWork4_2.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeWork4_1/HomeWork4_1.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeWork3_4/HomeWork3_4.java" />
       </list>
     </option>
   </component>
@@ -94,7 +132,9 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -122,36 +162,30 @@
             <path>
               <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork3_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork4_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson4" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork4_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="photomat" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork4_3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.HomeWork3_4">
     <configuration name="ConsoleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.Module2.ConsoleExample" />
       <module name="Lessons" />
@@ -203,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Hello" />
-      <module name="Lessons" />
+    <configuration name="HomeWork3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork3_4.HomeWork3_4" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1.*" />
+          <option name="PATTERN" value="HomeWork3_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +250,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.Module1.Main" />
-      <module name="Lessons" />
+    <configuration name="HomeWork4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4_1.HomeWork4_1" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.Module1.*" />
+          <option name="PATTERN" value="HomeWork4_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4_3.HomeWork4_3" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork4_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,10 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork3_4" />
+        <item itemvalue="Application.HomeWork4_1" />
+        <item itemvalue="Application.HomeWork4_3" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.ConsoleExample" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -256,11 +304,19 @@
       <option name="project" value="LOCAL" />
       <updated>1556392779556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework and Lessons">
+      <created>1556393919775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556393919776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -271,11 +327,11 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.27612656" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32694152" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27659574" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.27612656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -698,6 +754,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork4_3/HomeWork4_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork4_2/HomeWork4_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork4_1/HomeWork4_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork3_4/HomeWork3_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>

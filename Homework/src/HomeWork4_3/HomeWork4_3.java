@@ -1,16 +1,28 @@
 package HomeWork4_3;
 
+//Задание
+//Используя цикл while, рассчитайте для введенного числа его факториал.
+
+import java.util.Scanner;
+
 public class HomeWork4_3 {
     public static void main(String[] args) {
-        int a = 3;
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter numder");
+        String q = scanner.nextLine();
+
+        int a = Integer.parseInt(q);
         int b = 1;
         int i = 1;
         while (i <= a) {
             b = b * i;
             i++;
         }
-        System.out.println("Факториал числа "+a+ " равен " +b);
+        System.out.println("Факториал числа " + a + " равен " + b);
 
     }
 
 }
+
+
