@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeWork2_1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeWork2_1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeWork2_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeWork2_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Leesson1/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson2/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module1/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module2/ConsoleExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson3/Module2/Example.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork2_1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -63,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork2_1/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="466">
-              <caret line="92" column="62" selection-start-line="92" selection-start-column="62" selection-end-line="92" selection-end-column="62" />
+              <caret line="92" column="34" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
               <folding>
                 <element signature="e#747#748#0" expanded="true" />
                 <element signature="e#796#797#0" expanded="true" />
@@ -249,84 +251,6 @@
               <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PVT" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork2_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork3_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork4_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork4_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork4_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson8" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -486,14 +410,20 @@
       <option name="project" value="LOCAL" />
       <updated>1556440610994</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Homework and Lessons">
+      <created>1556462739998</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556462739998</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -503,7 +433,7 @@
       <window_info anchor="bottom" id="Inspection Results" sideWeight="0.49946696" weight="0.32981783" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32694152" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.27612656" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.27612656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -892,7 +822,7 @@
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork2_1/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
-          <caret line="92" column="62" selection-start-line="92" selection-start-column="62" selection-end-line="92" selection-end-column="62" />
+          <caret line="92" column="34" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
           <folding>
             <element signature="e#747#748#0" expanded="true" />
             <element signature="e#796#797#0" expanded="true" />
@@ -932,8 +862,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeWork2_1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
