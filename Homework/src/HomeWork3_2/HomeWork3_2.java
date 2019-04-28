@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class HomeWork3_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите число ");
+        System.out.println("Введите целое число ");
         String q = scanner.nextLine();
         int a = Integer.parseInt(q);
         if (a % 10 == 7)

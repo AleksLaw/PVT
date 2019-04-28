@@ -25,7 +25,7 @@ public class HomeWork3_3 {
         if (d <= r)
             System.out.println("Этой картонкой можно закрыть отверстие");
         else
-            System.out.println("И отверстие не закроете и картонку потеряете");
+            System.out.println("Этой картонкой нельзя закрыть отверстие");
 
     }
 }
