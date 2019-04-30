@@ -7,7 +7,7 @@ public class HomeWork09 {
         int x = (int) (Math.random() * 20);
         int min = x;
         int max = x;
-
+//1
         while (x != 0) {
 
             if (x > max) {
