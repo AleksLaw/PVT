@@ -1,4 +1,4 @@
-package HomeWork2_1;
+package HomeWork01;
 
 //Задание
 //Создать новый класс Автомобиль, наделить класс разными свойствами/полями - характеристики автомобиля,
@@ -82,6 +82,7 @@ public class Car {
     public void setSpeed(int speed) {
         this.speed = speed;
     }
+
 
     @Override
     public String toString() {
