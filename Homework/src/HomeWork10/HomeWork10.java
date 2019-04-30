@@ -1,9 +1,10 @@
 package HomeWork10;
+
 //Имеется целое число. Следует посчитать сумму цифр данного числа
 public class HomeWork10 {
     public static void main(String[] args) {
-        double a = (int) (Math.random() * 1000);
 
+        double a = (int) (Math.random() * 1000);
         int x = (int) a;
         System.out.println("x=" + x);
         int sum = 0;
