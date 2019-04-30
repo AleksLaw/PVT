@@ -83,7 +83,6 @@ public class Car {
         this.speed = speed;
     }
 
-    //test
 
     @Override
     public String toString() {
