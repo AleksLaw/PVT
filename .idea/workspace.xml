@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework17/Homework16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Homework18/Homework18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework17/Homework16.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework17/Homework17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework18/Homework18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -97,15 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-7">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework08/Homework08.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -137,8 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson4/photomat/Main.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson6/string/MobilePhone.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/it/online/Main.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/string/Main.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/it/module2/src/by/pvt/string/MobilePhone.java" />
@@ -188,6 +186,8 @@
         <option value="$PROJECT_DIR$/Homework/src/Homework15/Homework15.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework16/Homework16.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework17/Homework16.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework17/Homework17.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework18/Homework18.java" />
       </list>
     </option>
   </component>
@@ -231,6 +231,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Homework17" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework18" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -262,20 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Homework17">
-    <configuration name="Homework11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework11.Homework11" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Homework18">
     <configuration name="Homework14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework14.Homework14" />
       <module name="Homework" />
@@ -328,13 +322,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Homework18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework18.Homework18" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework18" />
         <item itemvalue="Application.Homework17" />
         <item itemvalue="Application.Homework16" />
         <item itemvalue="Application.Homework15" />
         <item itemvalue="Application.Homework14" />
-        <item itemvalue="Application.Homework11" />
       </list>
     </recent_temporary>
   </component>
@@ -482,14 +489,28 @@
       <option name="project" value="LOCAL" />
       <updated>1556721243773</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Homework and Lessons">
+      <created>1556727624848</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556727624848</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Homework and Lessons">
+      <created>1556727655310</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556727655310</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,13 +519,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32694152" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48880598" visible="true" weight="0.34036434" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.69616205" visible="true" weight="0.34036434" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.39980826" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51119405" side_tool="true" visible="true" weight="0.34036434" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.30383795" side_tool="true" visible="true" weight="0.34036434" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32981783" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4914712" weight="0.32981783" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" weight="0.32981783" />
@@ -552,7 +573,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Homework and Lessons" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/module1/src/by/it/akademy/Car.java" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/module1/src/by/it/Car.java" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/module2/src/by/pvt/string/MobilePhone.java" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/module2/src/by/pvt/string/Main.java" />
@@ -872,10 +892,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework17/Homework16.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework17/Homework17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework18/Homework18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
