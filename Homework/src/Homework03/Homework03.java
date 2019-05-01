@@ -1,11 +1,11 @@
-package HomeWork03;
+package Homework03;
 //Задание
 //Введите число с клавиатуры в консоль JVM. Определите, является ли последняя
 //цифра числа семеркой. Выведите ответ в консоль.
 
 import java.util.Scanner;
 
-public class HomeWork03 {
+public class Homework03 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите целое число ");

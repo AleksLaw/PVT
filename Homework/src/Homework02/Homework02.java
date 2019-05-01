@@ -1,4 +1,4 @@
-package HomeWork02;
+package Homework02;
 //Задание
 //public static void main(String[] args) {
 //        int s = 3700;
@@ -13,7 +13,7 @@ package HomeWork02;
 //        }
 //Продолжите приведенный пример, добавьте расчет и вывод суток и недель.
 
-public class HomeWork02 {
+public class Homework02 {
     public static void main(String[] args) {
         int s = 907280;
         int sec, min, hour, day, week;

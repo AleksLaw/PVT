@@ -1,10 +1,10 @@
-package HomeWork07;
+package Homework07;
 //Задание
 //Имеются два дома размерами a на b и c на d. Имеется участок размерами e на f.
 //Проверить помещаются ли эти дома на данном участке.
 //Стороны домов — параллельны сторонам участка, в остальном размещение может быть любым.
 
-public class HomeWork07 {
+public class Homework07 {
     public static void main(String[] args) {
         int a = 3, b = 1, c = 1, d = 1, e = 1, f = 1;
         if ((e >= a + c) && (b <= f && d <= f)) {

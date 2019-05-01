@@ -1,8 +1,8 @@
-package HomeWork09;
+package Homework09;
 //Задание
 //Имеется последовательность чисел найти минимум и максимум
 
-public class HomeWork09 {
+public class Homework09 {
     public static void main(String[] args) {
 
         int x = (int) (Math.random() * 20);

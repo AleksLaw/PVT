@@ -1,8 +1,8 @@
-package HomeWork11;
+package Homework11;
 //Задание
 //Определить является ли число простым
 
-public class HomeWork11 {
+public class Homework11 {
 
     public static void main(String[] args) {
 

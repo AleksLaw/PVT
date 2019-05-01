@@ -1,11 +1,11 @@
-package HomeWork06;
+package Homework06;
 //Задание
 //Имеются три числа — день, месяц, год. Вывести в виде трех чисел дату следующего дня.
 //Постарайтесь испольщовать операторы if, else, или switch
 
 import java.util.Scanner;
 
-public class HomeWork06 {
+public class Homework06 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

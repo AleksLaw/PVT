@@ -1,4 +1,4 @@
-package HomeWork05;
+package Homework05;
 //Задание
 //Имеется целое число (любое), это число — сумма денег в рублях.
 //Вывести это число, добавив к нему слово «рублей» в правильном падеже.
@@ -6,7 +6,7 @@ package HomeWork05;
 
 import java.util.Scanner;
 
-public class HomeWork05 {
+public class Homework05 {
 
     public static void main(String[] args) {
 

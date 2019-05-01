@@ -1,7 +1,7 @@
-package HomeWork10;
+package Homework10;
 //Задание
 //Имеется целое число. Следует посчитать сумму цифр данного числа
-public class HomeWork10 {
+public class Homework10 {
     public static void main(String[] args) {
 
         double a = (int) (Math.random() * 1000);

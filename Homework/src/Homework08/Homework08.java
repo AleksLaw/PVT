@@ -1,11 +1,11 @@
-package HomeWork08;
+package Homework08;
 
 //Задание
 //Используя цикл while, рассчитайте для введенного числа его факториал.
 
 import java.util.Scanner;
 
-public class HomeWork08 {
+public class Homework08 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
