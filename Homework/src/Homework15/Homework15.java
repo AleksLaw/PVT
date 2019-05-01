@@ -5,7 +5,7 @@ package Homework15;
 
 public class Homework15 {
     public static void main(String[] args) {
-        int marks[] = new int[10];
+        int marks[] = new int[20];
         int maxIndex = marks[0];
         int minIndex = 9;
         int indexMax = 0;
