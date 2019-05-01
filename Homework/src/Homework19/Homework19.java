@@ -6,7 +6,7 @@ public class Homework19 {
     public static void main(String[] args) {
         int count = 0;
 
-        String q = " «Ничего  ты           не знаешь, Джон  Сноу!  вздохнула    она и умерла.»       ";
+        String q = "       «Ничего  ты           не знаешь, Джон  Сноу!  вздохнула    она и умерла.»       ";
 
 
         while (q.contains("  ")) {   //замена 2 пробела на 1
