@@ -1,4 +1,6 @@
 package Homework13;
+//Задание
+//Определить является ли число простым используя break;
 
 public class Homework13 {
     public static void main(String[] args) {
