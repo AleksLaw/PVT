@@ -1,10 +1,9 @@
 package Homework19;
-
-public class Homework19 {
-    //Задание
+//Задание
 // Посчитать слова, не учитывать пробелы в начале и конце и двойные пробелы
+public class Homework19 {
     public static void main(String[] args) {
-        int count = 0;
+        int count = 1;
 
         String q = " «Ничего  ты           не знаешь, Джон  Сноу!  вздохнула    она и умерла.»       ";
 
@@ -20,6 +19,8 @@ public class Homework19 {
                 count++;
             }
         }
+
+        System.out.println(w);
         System.out.println("Количество слов = " + count + ".");
     }
 }
