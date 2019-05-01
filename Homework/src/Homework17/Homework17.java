@@ -4,7 +4,7 @@ package Homework17;
 // Упарился решил с помощью гугла, смысл понял повторить не смогу))
 
 
-public class Homework16 {
+public class Homework17 {
     public static void main(String[] args) {
         int bat[][] = new int[5][5];
         int i, j;
