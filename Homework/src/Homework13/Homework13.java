@@ -1,17 +1,14 @@
-package Homework11;
-//Задание
-//Определить является ли число простым
+package Homework13;
 
-public class Homework11 {
-
+public class Homework13 {
     public static void main(String[] args) {
 
-        int a = 90;
+        int a = 4;
         boolean type = true;
         for (int p = 2; p < a; p++) {
             if (a % p == 0) {
                 type = false;
-
+                break;
             }
         }
         if (type) {
@@ -20,11 +17,4 @@ public class Homework11 {
             System.out.println("Число не является простым");
         }
     }
-
 }
-
-
-
-
-
-
