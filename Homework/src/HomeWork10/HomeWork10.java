@@ -1,5 +1,5 @@
 package HomeWork10;
-
+//Задание
 //Имеется целое число. Следует посчитать сумму цифр данного числа
 public class HomeWork10 {
     public static void main(String[] args) {
