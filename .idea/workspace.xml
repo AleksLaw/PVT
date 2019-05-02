@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="Homework and Lessons">
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework24/Homework24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework24/Test.java" afterDir="false" />
+    <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework23/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="91" selection-start-line="91" selection-end-line="95" selection-end-column="13" />
+            <state relative-caret-position="-1406">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
               <folding>
                 <element signature="e#153#154#0" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
@@ -41,10 +39,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Test.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Homework24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -52,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="242">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -137,8 +135,8 @@
         <option value="$PROJECT_DIR$/Homework/src/Homework22/Interval.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/Homework24.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/Test.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework23/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework23/Main.java" />
       </list>
     </option>
   </component>
@@ -174,13 +172,6 @@
               <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework22" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
@@ -510,14 +501,28 @@
       <option name="project" value="LOCAL" />
       <updated>1556815732833</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Homework and Lessons">
+      <created>1556831467634</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556831467634</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Homework and Lessons">
+      <created>1556831489247</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556831489247</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -526,13 +531,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32694152" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6839019" weight="0.34036434" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49093816" visible="true" weight="0.39980826" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.68336886" visible="true" weight="0.34036434" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49093816" weight="0.39980826" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5090618" side_tool="true" visible="true" weight="0.39980826" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.31663114" side_tool="true" visible="true" weight="0.34036434" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32981783" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48560768" weight="0.32981783" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" weight="0.32981783" />
@@ -581,36 +586,6 @@
     <MESSAGE value="Homework " />
     <MESSAGE value="Homework and Lessons" />
     <option name="LAST_COMMIT_MESSAGE" value="Homework and Lessons" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java</url>
-          <line>96</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java</url>
-          <line>98</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java</url>
-          <line>97</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java</url>
-          <line>99</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson8/abstractz/src/by/pvt/abstr/Auto.java">
@@ -916,13 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Homework24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework22/Interval.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -960,10 +928,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Homework24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="91" selection-start-line="91" selection-end-line="95" selection-end-column="13" />
+        <state relative-caret-position="-1406">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
           <folding>
             <element signature="e#153#154#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -977,8 +952,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
