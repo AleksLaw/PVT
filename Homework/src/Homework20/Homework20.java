@@ -23,7 +23,5 @@ public class Homework20 {
                 } else System.out.print(w.charAt(i - 1));
             }
         }
-
-
     }
 }
