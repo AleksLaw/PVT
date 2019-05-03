@@ -1,4 +1,7 @@
 package Homework24;
+//Задание
+// Создать иерархию классов для бытовой техники Создать несколько объектов
+// и включить их в розетку
 
 public class Main {
     public static void main(String[] args) {

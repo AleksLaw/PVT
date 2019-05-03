@@ -1,4 +1,6 @@
 package Homework25;
+//Задание
+// Создать иерархию классов для банковских карт
 
 public class Main {
     public static void main(String[] args) {
