@@ -2,7 +2,7 @@ package Homework23;
 
 public class Main {
     public static void main(String[] args) {
-        Bankomat bankomat = new Bankomat(100,100,100);
+        Bankomat bankomat = new Bankomat(1,3,0);
         bankomat.getTotalSumm();
 
         bankomat.add$20(0);
@@ -12,8 +12,8 @@ public class Main {
         bankomat.get$100();
 
 
-        bankomat.getMoneyYesNo(140);
-        bankomat.getMoney(1180);
+        bankomat.getMoneyYesNo(170);
+        bankomat.getMoney(170);
         bankomat.getTotalSumm();
 
 
