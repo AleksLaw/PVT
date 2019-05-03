@@ -4,16 +4,15 @@ abstract class Techniks {
 
     String name;
 
+
     abstract boolean on();
 
     public Techniks(String name) {
         this.name = name;
     }
     interface Wifi {
-        void yesWifi();
-        void noWifi();
-
-    }
+        boolean Wifi();
+       }
 
     @Override
     public String toString() {

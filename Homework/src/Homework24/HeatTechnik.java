@@ -2,11 +2,16 @@ package Homework24;
 
 public class HeatTechnik extends Techniks implements Techniks.Wifi {
 
-    boolean heatOn=false;
+
+
+    protected boolean heatOn=false;
+    protected boolean Wifi=false;
+    protected boolean on=false;
+
 
 public boolean isHeatOn (){
     System.out.println("Нагрев включен! " + this.name);
-    return true;
+    return heatOn=true;
 }
 
 
@@ -17,18 +22,18 @@ public boolean isHeatOn (){
     @Override
     boolean on() {
         System.out.println("Есть питание 220В!! " + this.name);
-        return true;
+        return on= true;
     }
 
-
-
     @Override
-    public void yesWifi() {
+    public boolean Wifi() {
         System.out.println(this.name+" Может включаться по WiFi");
+        return Wifi=true;
+    }
+    @Override
+    public String toString() {
+        return "Нагревательная техника которая называется " + this.name+" 220В="+ this.on +  " нагрев="+this.heatOn +  " Wifi="+ this.Wifi;
     }
 
-    @Override
-    public void noWifi() {
-        System.out.println(this.name+" Нет WiFi");
-    }
+
 }

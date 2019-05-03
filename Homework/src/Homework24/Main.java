@@ -6,16 +6,18 @@ public class Main {
         electricKettle.on();
         electricKettle.isWaterOn();
         electricKettle.isHeatOn();
-        electricKettle.yesWifi();
+        electricKettle.Wifi();
+        System.out.println(electricKettle);
         WaterTehnik dishwasher = new WaterTehnik("Dishwasher");
         dishwasher.on();
         dishwasher.isWaterOn();
         dishwasher.isHeatOn();
-        dishwasher.noWifi();
+        System.out.println(dishwasher);
         HeatTechnik cooker = new HeatTechnik("Cooker");
         cooker.on();
         cooker.isHeatOn();
-        cooker.yesWifi();
+        cooker.Wifi();
+        System.out.println(cooker);
 
 
 

@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework24/Techniks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnikTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/BankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/Homework24.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/Techniks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/Techniks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,21 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-              <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -49,16 +39,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#835#836#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -67,13 +58,7 @@
         <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Techniks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -108,11 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson8/abstractz/src/by/pvt/abstr/Main.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson8/abstractz/src/by/pvt/abstr/Playable.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson8/abstractz/src/by/pvt/abstr/TvSet.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson8/abstractz/src/by/pvt/abstr/Mashine.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/it/akademy/Car.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/it/Car.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/online/Main.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson6/module2/src/by/pvt/string/MobilePhone.java" />
@@ -154,9 +134,14 @@
         <option value="$PROJECT_DIR$/Homework/src/Homework24/EltctricalTehnik.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/TehnikaWater.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/ElectricKettle.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework24/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnikTest.groovy" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/BankCard1.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/BankCard.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/Techniks.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework24/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java" />
       </list>
@@ -201,6 +186,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Homework24" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework25" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -215,7 +207,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PVThomework_Aleksandr.law@gmail.com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework/src/Homework25" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -227,6 +219,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PVThomework_Aleksandr.law-gmail.com\Homework\src\Homework25" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -242,19 +237,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Homework21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework21.Homework21" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework23.Main" />
       <module name="Homework" />
@@ -274,6 +256,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homework24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework25.Main" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,10 +305,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Homework21" />
       </list>
     </recent_temporary>
   </component>
@@ -552,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556879247590</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Homework and Lessons">
+      <created>1556885171123</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1556885171123</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -568,15 +570,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32694152" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6800303" visible="true" weight="0.33878887" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6785174" visible="true" weight="0.33878887" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49016643" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.31996974" side_tool="true" visible="true" weight="0.33878887" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.3214826" side_tool="true" visible="true" weight="0.33878887" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32981783" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48560768" weight="0.32981783" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48411497" weight="0.3289689" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" weight="0.32981783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -597,48 +599,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Homework and Lessons" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson8/abstractz/src/by/pvt/abstr/TvSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson8/abstractz/src/by/pvt/abstr/Mashine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson6/module2/src/by/pvt/string/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson6/module2/src/by/pvt/string/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson6/module1/src/by/online/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -912,49 +872,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/BankCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Techniks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="206">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="115">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
