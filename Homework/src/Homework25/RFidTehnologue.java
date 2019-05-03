@@ -1,27 +1,23 @@
 package Homework25;
 
-public class RFidTehnologue extends DebitCreditCard  {
+public class RFidTehnologue extends DebitCreditCard {
 
-    private boolean onRFid = false;
-    private boolean offRFid = false;
+    protected boolean RFid = false;
 
-    public RFidTehnologue(String name) {
-        super(name);
+    public RFidTehnologue(String type) {
+        super(type);
     }
 
     public boolean onRFid() {
-        if (this.onRFid==true){
-            this.offRFid=false;
-        }
-        System.out.println("Безконтактная карта! " + this.onRFid);
-        return true;
+        if (RFid == true) {
+            System.out.println("Безконтактная карта! " + this.RFid);
+        } else System.out.println("Карта без чипа RFid! " + this.RFid);
+
+        return RFid = true;
     }
 
-    public boolean offRFid() {
-        if (this.offRFid == true) {
-            this.onRFid = false;
-        }System.out.println("Карта без чипа RFid! " + this.offRFid);
-    return true;
-
+    @Override
+    public String toString() {
+        return "Карта типа " +type + " RFid=" + RFid + " credit=" + credit ;
     }
 }

@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/BankCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/Techniks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/Techniks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,38 +22,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/BankCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Main.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="238">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="e#406#407#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Techniks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+              <folding>
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,14 +138,14 @@
         <option value="$PROJECT_DIR$/Homework/src/Homework24/ElectricKettle.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnikTest.groovy" />
         <option value="$PROJECT_DIR$/Homework/src/Homework25/BankCard1.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework25/BankCard.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework25/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/Techniks.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/HeatTechnik.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/WaterTehnik.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/Main.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java" />
       </list>
     </option>
   </component>
@@ -236,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework23.Main" />
       <module name="Homework" />
@@ -304,8 +306,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
@@ -554,14 +556,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556885171123</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Homework and Lessons">
+      <created>1556889108393</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1556889108393</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -570,7 +579,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32694152" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6785174" visible="true" weight="0.33878887" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6785174" visible="true" weight="0.33878887" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49016643" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -872,42 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/BankCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework24/Techniks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -933,6 +906,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/DebitCreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/RFidTehnologue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/BankCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework25/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
