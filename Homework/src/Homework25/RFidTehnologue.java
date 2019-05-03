@@ -8,12 +8,12 @@ public class RFidTehnologue extends DebitCreditCard {
         super(type);
     }
 
-    public boolean onRFid() {
-        if (RFid == true) {
-            System.out.println("Безконтактная карта! " + this.RFid);
-        } else System.out.println("Карта без чипа RFid! " + this.RFid);
+    public boolean onRFid(boolean q) {
+        if (q == true) {
+            System.out.println("Безконтактная карта! " + type);
+        } else System.out.println("Карта без чипа RFid! " + type);
 
-        return RFid = true;
+        return RFid = q;
     }
 
     @Override
