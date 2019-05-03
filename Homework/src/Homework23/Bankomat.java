@@ -95,7 +95,7 @@ public class Bankomat {
                 $50 = $50 - 1;
             }
 
-            if ((summa == 50||summa == 90||summa %100== 90||summa %100== 30||summa %100==  50||summa == 70  && get$50() >= 1)){
+            if ((summa == 50||summa == 90||summa %100== 90||summa %100== 30||summa %100== 10||summa %100==  50||summa == 70  && get$50() >= 1)){
                 summa = summa - 50;
                 count50 = count50 + 1;
                 $50 = $50 - 1;
