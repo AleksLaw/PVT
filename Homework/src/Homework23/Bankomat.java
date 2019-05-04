@@ -56,16 +56,13 @@ public class Bankomat {
 
     public void start() {
         int a = 0;
-        //  System.out.println("Добавлено " + a + " купюр $20");
-        //  $20 = $20 + a;
-
         while (a != 5) {
             a = readInteger(scanner, "Что вы хотите сделать?\n1-добавить деньги, 2-проверить баланс, 3-проверить возможность снятия, \n4-снять деньги, 5-закончить работу");
             if (a == 1) {
                 add$20();
             } else if (a == 2) {
                 printTotal();
-            }else if (a == 3) {
+            } else if (a == 3) {
                 getMoneyYesNo();
             } else if (a == 4) {
                 getMoney();
@@ -73,9 +70,11 @@ public class Bankomat {
 
         }
     }
+
     public void printTotal() { // сумма денег в банкомате
         System.out.println("Количество денег в банкомате = " + ("$20-" + this.$20 + " шт. " + " $50-" + this.$50 + " шт. " + " $100-" + this.$100 + " шт. " + " Итого: " + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + "$"));
     }
+
     public int getTotalSumm() { // сумма денег в банкомате
         return (this.$20 * 20 + this.$50 * 50 + this.$100 * 100);
     }
@@ -87,22 +86,23 @@ public class Bankomat {
         int count100 = 0;
         boolean one50 = true;
 
-        int temp20=$20;
-        int temp50=$50;
-        int temp100=$100;
+        int temp20 = $20;
+        int temp50 = $50;
+        int temp100 = $100;
 
         int a = readInteger(scanner, "Введите сумму которую вы бы хотели проверить на возможность снятия");
-        int summa=a;
+        int summa = a;
 
 
         if (summa <= getTotalSumm() && summa > 0) {
-            if (((summa > (summa%1000) && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()&& summa%100==0))) {
+            if (((summa > (summa % 1000) && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm() && summa % 100 == 0))) {
                 while (summa >= 300 && get$100() != 0) {
                     summa = summa - 100;
                     count100 = count100 + 1;
                     temp100 = temp100 - 1;
                 }
-            }if (((summa % 100 == 0 && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()))) {
+            }
+            if (((summa % 100 == 0 && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()))) {
                 while (summa >= 100 && get$100() != 0) {
                     summa = summa - 100;
                     count100 = count100 + 1;
@@ -153,7 +153,7 @@ public class Bankomat {
                 count50 = count50 + 1;
                 temp50 = temp50 - 1;
                 one50 = false;
-            } else if (get$20() >= 1 && summa <= getTotalSumm() && get$50() > 0 && (summa - 20) <= get$50() * 50 && summa % 100 == 70 ) {
+            } else if (get$20() >= 1 && summa <= getTotalSumm() && get$50() > 0 && (summa - 20) <= get$50() * 50 && summa % 100 == 70) {
                 while (summa != 20 || summa == 0) {
                     summa = summa - 50;
                     count50 = count50 + 1;
@@ -235,7 +235,7 @@ public class Bankomat {
 
 
             }
-            if (((summa % 100 == 0 && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()&& summa > 0))) {
+            if (((summa % 100 == 0 && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm() && summa > 0))) {
                 while (summa >= 100 && get$100() != 0 && summa % 100 == 0) {
                     summa = summa - 100;
                     count100 = count100 + 1;
@@ -262,19 +262,13 @@ public class Bankomat {
         }
 
 
-
-
-
-
-        if (count100 >0 || count50 >0 || count20>0 ) {
-            System.out.println("Указанную сумму: " + (count20 * 20 + count50 * 50 + count100 * 100)+"$ можно получить" + " купюрами номиналам $20 -> "+count20 +" шт. "+ "$50 -> "+count50 +" шт. "+ "$100 -> "+count100 +" шт. ");
+        if (count100 > 0 || count50 > 0 || count20 > 0) {
+            System.out.println("Указанную сумму: " + (count20 * 20 + count50 * 50 + count100 * 100) + "$ можно получить" + " купюрами номиналам $20 -> " + count20 + " шт. " + "$50 -> " + count50 + " шт. " + "$100 -> " + count100 + " шт. ");
         } else
             System.out.println("Данную сумму выдать нельзя " + "Купюры в банкомате " + ("$20-" + temp20 + " шт. " + " $50-" + temp50 + " шт. " + " $100-" + temp100 + " шт. " + " Итого: " + (temp20 * 20 + temp50 * 50 + temp100 * 100) + "$"));
 
 
     }
-
-
 
 
     public void getMoney() { //получение денег
@@ -290,13 +284,14 @@ public class Bankomat {
         if (summa <= getTotalSumm() && summa > 0) {
 
 
-            if (((summa > (summa%1000) && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()&& summa%100==0))) {
+            if (((summa > (summa % 1000) && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm() && summa % 100 == 0))) {
                 while (summa >= 300 && get$100() != 0) {
                     summa = summa - 100;
                     count100 = count100 + 1;
                     $100 = $100 - 1;
                 }
-            }  if (((summa % 100 == 0 && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()))) {
+            }
+            if (((summa % 100 == 0 && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()))) {
                 while (summa >= 100 && get$100() != 0) {
                     summa = summa - 100;
                     count100 = count100 + 1;
@@ -469,9 +464,6 @@ public class Bankomat {
         this.$50 = $50;
         this.$100 = $100;
     }
-
-
-
 
 
     public static int readInteger(Scanner scanner, String message) {
