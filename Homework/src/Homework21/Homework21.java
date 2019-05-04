@@ -20,13 +20,17 @@ public class Homework21 {
         }
         long endTimeBuilder = System.currentTimeMillis();
 
+        long startTimeBuffer = System.currentTimeMillis();
+        for (int i = 0; i < q; i++) {
+            StringBuffer stringBuffer = new StringBuffer();
+            stringBuffer.append("Асталависта, мешок с костями!");
+        }
+        long endTimeBuffer = System.currentTimeMillis();
+
         System.out.println("Время выполнения String = " + (endTimeString - startTimeString) + " ms");
         System.out.println("Время выполнения Builder = " + (endTimeBuilder - startTimeBuilder) + " ms");
+        System.out.println("Время выполнения Buffer = " + (endTimeBuffer - startTimeBuffer) + " ms");
 
-        if ((endTimeString - startTimeString) > (endTimeBuilder - startTimeBuilder)) {
-            System.out.println("Builder быстрее String в " + (endTimeString - startTimeString) / (endTimeBuilder - startTimeBuilder) + " разa");
-        } else
-            System.out.println("String быстрее Builder в " + (endTimeBuilder - startTimeBuilder) / (endTimeString - startTimeString) + " разa");
 
 
     }
