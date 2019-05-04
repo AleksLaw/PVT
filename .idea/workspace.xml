@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework23/CashOnHand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework23/CashOnHand.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/src/Homework23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework23/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,33 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+            <state relative-caret-position="192">
+              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
               <folding>
                 <element signature="e#454#455#0" expanded="true" />
                 <element signature="e#486#487#0" expanded="true" />
+                <element signature="method#add$20#0;class#Bankomat#0" />
+                <element signature="method#add$100#0;class#Bankomat#0" />
+                <element signature="e#1327#1353#0" />
+                <element signature="method#getMoneyYesNo#0;class#Bankomat#0" />
+                <element signature="method#getMoney#0;class#Bankomat#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/CashOnHand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="168" column="67" selection-start-line="168" selection-start-column="67" selection-end-line="168" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -140,9 +136,9 @@
         <option value="$PROJECT_DIR$/Homework/src/Homework22/Interval.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework24/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework25/Main.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework23/Main.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework23/CashOnHand.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework23/Main.java" />
       </list>
     </option>
   </component>
@@ -620,14 +616,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556907713906</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Homework and Lessons">
+      <created>1556971656654</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1556971656654</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09152799" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -636,13 +639,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32694152" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75416034" visible="true" weight="0.24386252" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.45839638" weight="0.33224222" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7518911" visible="true" weight="0.3420622" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.45612708" weight="0.33224222" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.24583964" side_tool="true" visible="true" weight="0.24386252" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.24810892" side_tool="true" visible="true" weight="0.3420622" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32981783" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48033282" weight="0.3289689" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" weight="0.32981783" />
@@ -1019,28 +1022,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Main.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/CashOnHand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Bankomat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        <state relative-caret-position="192">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
           <folding>
             <element signature="e#454#455#0" expanded="true" />
             <element signature="e#486#487#0" expanded="true" />
+            <element signature="method#add$20#0;class#Bankomat#0" />
+            <element signature="method#add$100#0;class#Bankomat#0" />
+            <element signature="e#1327#1353#0" />
+            <element signature="method#getMoneyYesNo#0;class#Bankomat#0" />
+            <element signature="method#getMoney#0;class#Bankomat#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/CashOnHand.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework23/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="168" column="67" selection-start-line="168" selection-start-column="67" selection-end-line="168" selection-end-column="67" />
+        <state relative-caret-position="187">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
