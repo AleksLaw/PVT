@@ -6,7 +6,7 @@ package Homework23;
 // конструктор с 3 параметрами
 public class Main {
     public static void main(String[] args) {
-        Bankomat bankomat = new Bankomat(100, 100, 100);
+        Bankomat bankomat = new Bankomat(0, 0, 0);
 
         bankomat.printTotal();
         bankomat.add$20();

@@ -54,11 +54,9 @@ public class Bankomat {
 
 
     public void printTotal() { // сумма денег в банкомате
-        //  System.out.println("Количество денег в банкомате = " + ("$20-" + this.$20 + " шт. " + " $50-" + this.$50 + " шт. " + " $100-" + this.$100 + " шт. " + " Итого: " + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + " денег"));
-        System.out.println( this.$20 * 20 + this.$50 * 50 + this.$100 * 100);
+        System.out.println("Количество денег в банкомате = " + ("$20-" + this.$20 + " шт. " + " $50-" + this.$50 + " шт. " + " $100-" + this.$100 + " шт. " + " Итого: " + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + " денег"));
     }
     public int getTotalSumm() { // сумма денег в банкомате
-        //  System.out.println("Количество денег в банкомате = " + ("$20-" + this.$20 + " шт. " + " $50-" + this.$50 + " шт. " + " $100-" + this.$100 + " шт. " + " Итого: " + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + " денег"));
         return (this.$20 * 20 + this.$50 * 50 + this.$100 * 100);
     }
 
@@ -439,7 +437,7 @@ public class Bankomat {
 
         if ((count100 * 100 + count50 * 50 + count20 * 20) > 0) {
             System.out.println("Итого на руки получено: " + (count20 * 20 + count50 * 50 + count100 * 100) + "$ Купюрами $20 -> " + count20 + " шт " + "$50 -> " + count50 + " шт " + "$100 -> " + count100 + " шт ");
-            System.out.println("Количество денег в банкомате = " + ("$20-" + this.$20 + " шт. " + " $50-" + this.$50 + " шт. " + " $100-" + this.$100 + " шт. " + " Итого: " + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + " денег"));
+            System.out.println("Количество денег в банкомате = " + ("$20-" + this.$20 + " шт. " + " $50-" + this.$50 + " шт. " + " $100-" + this.$100 + " шт. " + " Итого: " + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + "$"));
         } else
             System.out.println("Данную сумму выдать нельзя " + "Количество денег в банкомате = " + ("$20-" + this.$20 + " шт. " + " $50-" + this.$50 + " шт. " + " $100-" + this.$100 + " шт. " + " Итого: " + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + " денег"));
 
@@ -466,7 +464,7 @@ public class Bankomat {
             } catch (NumberFormatException e) {
             }
             if (a <= 0) {
-                System.out.println("ERROR!!! Enter the correct number!!!");
+                System.out.println("Слишком мало, не жадничайте они все равно не ваши");
             } else {
                 return a;
             }
