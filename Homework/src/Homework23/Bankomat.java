@@ -257,20 +257,20 @@ public class Bankomat {
 
 
 
-    public void getMoney() { //получение денег
+    public void getMoney(int summa) { //получение денег
 
         int count20 = 0;
         int count50 = 0;
         int count100 = 0;
         boolean one50 = true;
-        int a = readInteger(scanner, "Введите сумму которую вы бы хотели снять");
-        int summa=a;
+      //  int a = readInteger(scanner, "Введите сумму которую вы бы хотели снять");
+        //int summa=a;
 
 
         if (summa <= getTotalSumm() && summa > 0) {
 
 
-            if (((summa > (summa%1000) && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()))) {
+            if (((summa > (summa%1000) && (getTotalSumm() - 100) >= 0 && summa <= getTotalSumm()&& summa%100==0))) {
                 while (summa >= 300 && get$100() != 0) {
                     summa = summa - 100;
                     count100 = count100 + 1;
