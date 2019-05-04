@@ -35,21 +35,21 @@ public class Bankomat {
     }
 
     public void add$20() { //Добавить 20
-        int a = readInteger(scanner, "Введите число номиналом $20 для добавления в банкомат");
+        int a = readInteger(scanner, "Введите число купюр номиналом $20 для добавления в банкомат");
         System.out.println("Добавлено " + a + " купюр $20");
         $20 = $20 + a;
         add$50();
     }
 
     public void add$50() { //Добавить 50
-        int a = readInteger(scanner, "Введите число номиналом $50 для добавления в банкомат");
+        int a = readInteger(scanner, "Введите число купюр номиналом $50 для добавления в банкомат");
         System.out.println("Добавлено " + a + " купюр $50");
         $50 = $50 + a;
         add$100();
     }
 
     public void add$100() { //Добавить 100
-        int a = readInteger(scanner, "Введите число номиналом $100 для добавления в банкомат");
+        int a = readInteger(scanner, "Введите число купюр номиналом $100 для добавления в банкомат");
         System.out.println("Добавлено " + a + " купюр $100");
         $100 = $100 + a;
     }
