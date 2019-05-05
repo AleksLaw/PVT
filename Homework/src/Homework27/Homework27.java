@@ -4,4 +4,7 @@ package Homework27;
 //Удалить повторяющиеся числа
 
 public class Homework27 {
+    public static void main(String[] args) {
+
+    }
 }
