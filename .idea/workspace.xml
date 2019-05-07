@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/src/Homework30/Homework30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/Homework30/Homework30.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/Homework29/Homework29.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,10 +39,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework/src/Homework30/Homework30.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/Homework29/Homework29.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="-729">
+              <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homework/src/Homework13/Homework13.java" />
-        <option value="$PROJECT_DIR$/Homework/src/Homework14/Homework14.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework15/Homework15.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework16/Homework16.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework17/Homework16.java" />
@@ -140,6 +138,8 @@
         <option value="$PROJECT_DIR$/Homework/src/Homework28/Homework28.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework19/Homework19.java" />
         <option value="$PROJECT_DIR$/Homework/src/Homework30/Homework30.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework29/Homework30.java" />
+        <option value="$PROJECT_DIR$/Homework/src/Homework29/Homework29.java" />
       </list>
     </option>
   </component>
@@ -181,48 +181,6 @@
               <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework26" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVT_Aleksandr.law_gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVT_Aleksandr.law_gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework30" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Homework30">
+  <component name="RunManager" selected="Application.Homework29">
     <configuration name="Homework26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework26.Homework26" />
       <module name="Homework" />
@@ -313,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework30.Homework30" />
+    <configuration name="Homework29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework29.Homework29" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework30.*" />
+          <option name="PATTERN" value="Homework29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,7 +299,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework30" />
+        <item itemvalue="Application.Homework29" />
         <item itemvalue="Application.Homework28" />
         <item itemvalue="Application.Homework26" />
         <item itemvalue="Application.Main (1)" />
@@ -359,13 +317,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556387048370</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Homework and Lessons">
-      <created>1556393919775</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1556393919776</updated>
     </task>
     <task id="LOCAL-00003" summary="Homework and Lessons">
       <created>1556395594356</created>
@@ -703,14 +654,20 @@
       <option name="project" value="LOCAL" />
       <updated>1557259746849</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Homework and Lessons">
+      <created>1557265767327</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1557265767328</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -719,7 +676,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4977307" weight="0.32569557" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.78837955" visible="true" weight="0.50910836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78837955" weight="0.50910836" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.45095947" weight="0.33173537" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1441,36 +1398,6 @@
           <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework30/Homework30.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework30/Homework30.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="137" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework30/Homework30.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="138" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework30/Homework30.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Homework/src/Homework30/Homework30.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1853,10 +1780,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/Homework30/Homework30.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/Homework29/Homework29.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="-729">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
