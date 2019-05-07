@@ -16,7 +16,7 @@ public class Homework26 {
             list.add((int) (Math.random() * 5 + 1));
         }
 
-        System.out.println(list);
+        System.out.println("Все оценки учеников: "+list);
 
         for (int i = 0; i < list.size(); i++) {
             if (list.get(i) <= badRaiting) {
@@ -25,6 +25,6 @@ public class Homework26 {
             }
         }
 
-        System.out.println(list);
+        System.out.println("Только удовлетворительные оценки: "+list);
     }
 }
