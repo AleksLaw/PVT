@@ -14,9 +14,10 @@ public class DebitCreditCard extends BankCard {
     public DebitCreditCard(String type) {
         super(type);
     }
+
     @Override
     public String toString() {
-        return "Карта типа " +type +  " credit=" + credit ;
+        return "Карта типа " + type + " credit=" + credit;
     }
 
 }

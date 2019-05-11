@@ -17,7 +17,7 @@ public class Homework27 {
             list.add((int) (Math.random() * 20 + 1));
         }
 
-        System.out.println("С дубликатами:" +list);
+        System.out.println("С дубликатами:" + list);
 
         Set<Integer> listDublicat = new HashSet<>();
 
@@ -25,6 +25,6 @@ public class Homework27 {
         list.clear();
         list.addAll(listDublicat);
 
-        System.out.println("Без дубликатов:" +list);
+        System.out.println("Без дубликатов:" + list);
     }
 }

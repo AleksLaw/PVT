@@ -8,15 +8,13 @@ public class WaterTehnik extends HeatTechnik implements Techniks.Wifi {
         super(name);
     }
 
-
-
     public boolean isWaterOn() {
         System.out.println("Емкость заполнена! " + this.name);
-        return waterOn=true;
+        return waterOn = true;
     }
 
     @Override
     public String toString() {
-        return "Нагревательная техника с водой которая называется " + this.name+" 220В="+ this.on +" вода="+ this.waterOn+  " нагрев="+this.heatOn +  " Wifi="+ this.Wifi;
+        return "Нагревательная техника с водой которая называется " + this.name + " 220В=" + this.on + " вода=" + this.waterOn + " нагрев=" + this.heatOn + " Wifi=" + this.Wifi;
     }
 }

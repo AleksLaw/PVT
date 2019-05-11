@@ -18,6 +18,6 @@ public class RFidTehnologue extends DebitCreditCard {
 
     @Override
     public String toString() {
-        return "Карта типа " +type + " RFid=" + RFid + " credit=" + credit ;
+        return "Карта типа " + type + " RFid=" + RFid + " credit=" + credit;
     }
 }

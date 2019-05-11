@@ -83,7 +83,8 @@ public class Bankomat {
                 System.out.println("Нет такого меню");
             }
 
-        }System.out.println("Всего хорошего! Приходите еще");
+        }
+        System.out.println("Всего хорошего! Приходите еще");
     }
 
     public void printTotal() { // сумма денег в банкомате

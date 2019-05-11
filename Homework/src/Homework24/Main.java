@@ -5,7 +5,7 @@ package Homework24;
 
 public class Main {
     public static void main(String[] args) {
-        WaterTehnik electricKettle =new WaterTehnik("Electric kettle");
+        WaterTehnik electricKettle = new WaterTehnik("Electric kettle");
         electricKettle.on();
         electricKettle.isWaterOn();
         electricKettle.isHeatOn();
@@ -21,8 +21,6 @@ public class Main {
         cooker.isHeatOn();
         cooker.Wifi();
         System.out.println(cooker);
-
-
 
 
     }

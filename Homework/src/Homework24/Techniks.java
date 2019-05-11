@@ -10,9 +10,10 @@ abstract class Techniks {
     public Techniks(String name) {
         this.name = name;
     }
+
     interface Wifi {
         boolean Wifi();
-       }
+    }
 
     @Override
     public String toString() {

@@ -9,7 +9,6 @@ import java.util.Set;
 public class Homework29 {
     public static void main(String[] args) {
 
-
         char[] znak = {'.', ',', ':', ';', '?', '!', '(', ')', '-', '«', '»'};
         String sad = "раз два раз два раз два раз два 1 1 1 1 2 2 3 3 3 4 4 4 4 , , , раз  ";
         String s = sad.toLowerCase();
@@ -23,7 +22,6 @@ public class Homework29 {
             }
         }
         String b = new String(text);
-
 
         while (b.contains("  ")) {   //замена 2 пробела на 1
             String e = b.replace("  ", " ");
@@ -42,7 +40,6 @@ public class Homework29 {
             listStart.add(words[i]);
         }
 
-
         setDifferentWord.addAll(listStart);
         listFinish.addAll(setDifferentWord);
 
@@ -50,16 +47,12 @@ public class Homework29 {
         for (int i = 0; i < listFinish.size(); i++) {
             for (int j = 0; j < listStart.size(); j++) {
                 if (listFinish.get(i).equals(listStart.get(j))) {
-
                     count++;
                 }
-
             }
             System.out.println(listFinish.get(i) + "    " + count);
             count = 0;
         }
-
-
     }
 }
 
