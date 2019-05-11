@@ -47,7 +47,7 @@ public class Homework04 {
                 System.out.println("Ошибка: Введенное число не целое");
             }
         }
-        w = true;
+
 
         double d = Math.sqrt(a * a + b * b);
 

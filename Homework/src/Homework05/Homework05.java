@@ -11,12 +11,23 @@ public class Homework05 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите число");
-        String q = scanner.nextLine();
-        int a = Integer.parseInt(q);
 
-        int x = a % 100;
-        int y = a % 10;
+        boolean w = true;
+        int a = 0;
+
+        while (w == true) {
+            try {
+                System.out.println("Введите число");
+                String q = scanner.nextLine();
+                a = Integer.parseInt(q);
+                w = false;
+            } catch (NumberFormatException e) {
+                System.out.println("Ошибка: Введенное число не целое");
+            }
+        }
+
+        int x = Math.abs(a) % 100;
+        int y = Math.abs(a) % 10;
 
         if (x > 10 && x < 20 || y > 5 && y < 10)
             System.out.println(a + " рублей");
