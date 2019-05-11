@@ -7,7 +7,6 @@ public class Interval {
 
     public void getTotalSec() { //получение количества сек в интервалах
         System.out.println("Количество секунд в интервале = " + (this.sec + this.min * 60 + this.hour * 3600));
-
     }
 
     public void compare(Interval s) { //сравнение по секундам в интервалах
@@ -29,7 +28,6 @@ public class Interval {
             s %= 3600;
             min = s / 60;
             sec = s % 60;
-
             System.out.println(hour + " ч " + min + " м " + sec + " с");
         } else System.out.println(hour + " ч " + min + " м " + sec + " с");
     }

@@ -12,7 +12,6 @@ public class Homework20 {
             String s = q.replace("  ", " ");
             q = s;
         }
-
         String w = q.trim(); //первый и последний пробел
         System.out.println(w);
         System.out.println("Вот что получилось");

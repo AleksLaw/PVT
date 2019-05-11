@@ -1,14 +1,11 @@
 package Homework17;
 //Задание
 // Создать двумерный массив в виде бабочки
-// Упарился решил с помощью гугла, смысл понял повторить не смогу))
-
 
 public class Homework17 {
     public static void main(String[] args) {
         int bat[][] = new int[5][5];
         int i, j;
-
 
         for (i = 0; i < bat.length / 2; i++) {
             for (j = 0; j < bat[i].length; j++) {
@@ -16,9 +13,7 @@ public class Homework17 {
                     bat[i][j] = 0;
                 else
                     bat[i][j] = 1;
-
             }
-
         }
         for (i = bat.length - 1; i >= bat.length / 2; i--) {
             for (j = 0; j < bat[i].length; j++) {
