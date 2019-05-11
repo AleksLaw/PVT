@@ -9,16 +9,45 @@ public class Homework04 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите длину отверстия ");
-        String q = scanner.nextLine();
-        System.out.println("Введите ширину отверстия ");
-        String w = scanner.nextLine();
-        System.out.println("Введите радиус картонки");
-        String e = scanner.nextLine();
 
-        int a = Integer.parseInt(q);
-        int b = Integer.parseInt(w);
-        int r = Integer.parseInt(e);
+        boolean w = true;
+        int a = 0;
+        int b = 0;
+        int r = 0;
+
+        while (w == true) {
+            try {
+                System.out.println("Введите длину отверстия ");
+                String q = scanner.nextLine();
+                a = Integer.parseInt(q);
+                w = false;
+            } catch (NumberFormatException e) {
+                System.out.println("Ошибка: Введенное число не целое");
+            }
+        }
+        w = true;
+        while (w == true) {
+            try {
+                System.out.println("Введите ширину отверстия ");
+                String t = scanner.nextLine();
+                b = Integer.parseInt(t);
+                w = false;
+            } catch (NumberFormatException e) {
+                System.out.println("Ошибка: Введенное число не целое");
+            }
+        }
+        w = true;
+        while (w == true) {
+            try {
+                System.out.println("Введите радиус картонки");
+                String e = scanner.nextLine();
+                r = Integer.parseInt(e);
+                w = false;
+            } catch (NumberFormatException e) {
+                System.out.println("Ошибка: Введенное число не целое");
+            }
+        }
+        w = true;
 
         double d = Math.sqrt(a * a + b * b);
 
