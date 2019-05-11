@@ -11,7 +11,7 @@ public class Homework29 {
 
 
         char[] znak = {'.', ',', ':', ';', '?', '!', '(', ')', '-', '«', '»'};
-        String sad = "раз два раз два раз два раз два 1 1 1 1 2 2 3 3 3 4 4 4 4 , , ,  ";
+        String sad = "раз два раз два раз два раз два 1 1 1 1 2 2 3 3 3 4 4 4 4 , , , раз  ";
         String s = sad.toLowerCase();
 
         char[] text = s.toCharArray();

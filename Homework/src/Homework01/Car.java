@@ -30,10 +30,6 @@ public class Car {
          System.out.println( "Engine stop" ) ;
     }
 
-
-
-
-
     public String getColor() {
         return color;
     }
