@@ -11,7 +11,6 @@ public class Homework10 {
         while (x != 0) {
             sum = sum + x % 10;
             x = x / 10;
-
         }
         System.out.println("Сумма цифр=" + sum);
     }

@@ -6,12 +6,11 @@ public class Homework11 {
 
     public static void main(String[] args) {
 
-        int a = 90;
+        int a = 4;
         boolean type = true;
         for (int p = 2; p < a; p++) {
             if (a % p == 0) {
                 type = false;
-
             }
         }
         if (type) {
