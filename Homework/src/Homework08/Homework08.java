@@ -9,20 +9,32 @@ public class Homework08 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter numder");
-        String q = scanner.nextLine();
 
-        int a = Integer.parseInt(q);
+        boolean w = true;
+        int a = 0;
+
+        while (w == true) {
+            try {
+                System.out.println("Введите целое положительное число");
+                String q = scanner.nextLine();
+                a = Integer.parseInt(q);
+                w = false;
+            } catch (NumberFormatException e) {
+                System.out.println("Ошибка: Введенное число не целое");
+            }
+        }
         int b = 1;
         int i = 1;
-        while (i <= a) {
-            b = b * i;
-            i++;
+        if (a > 0) {
+            while (i <= a) {
+                b = b * i;
+                i++;
+            }
+            System.out.println("Факториал числа " + a + " равен " + b);
+        } else {
+            System.out.println("Ошибка: Введенное число отрицательное");
         }
-        System.out.println("Факториал числа " + a + " равен " + b);
-
     }
-
 }
 
 
