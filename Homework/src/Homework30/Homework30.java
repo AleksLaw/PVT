@@ -45,7 +45,7 @@ public class Homework30 {
 
         {
             try {
-                bufferedWriter = new BufferedWriter(new FileWriter("GimnRB.txt"));
+                bufferedWriter = new BufferedWriter(new FileWriter("GimnRB.txt")); //создание файла и запихивание в него текста
                 bufferedWriter.write(text);
                 bufferedWriter.flush();
                 bufferedWriter.close();
@@ -53,12 +53,13 @@ public class Homework30 {
                 String readLine;
                 String textOut = "";
                 String space = " ";
-                while ((readLine = bufferedReader.readLine()) != null) {
+                while ((readLine = bufferedReader.readLine()) != null) { //получение текста из файла
                     System.out.println(readLine);
                     textOut += space + readLine;
                 }
+                bufferedReader.close();
                 Pattern pattern = Pattern.compile("[\\(\\)\\{\\}\\[\\]\\^\\$\\|\\?\\*\\+\\.\\\\\\/\\,\\-\\_\\—\\!\\'\\:\\;\\«\\»]");
-                Matcher matcher = pattern.matcher(textOut);
+                Matcher matcher = pattern.matcher(textOut); //поиск и подсчет знаков препинания
                 while (matcher.find()) {
                     count++;
                 }
@@ -72,19 +73,16 @@ public class Homework30 {
                 if (textForWord.length() > 0) { //проверка есть ли вообще слова
                     countForWord = 1;
                 }
-                for (int i = 0; i < textForWord.length(); i++) {
+                for (int i = 0; i < textForWord.length(); i++) { //подсчет слов по пробелам
                     if (textForWord.charAt(i) == ' ') {
                         countForWord++;
                     }
                 }
-                System.out.println("\n" +count + " знаков препинания" + "\n" + countForWord + " кол-во слов");
-
+                System.out.println("\n" + count + " знаков препинания" + "\n" + countForWord + " кол-во слов");
 
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
-
         }
     }
 }
