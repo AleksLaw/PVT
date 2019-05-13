@@ -5,8 +5,7 @@ package Homework11_20.Homework11;
 public class Homework11 {
 
     public static void main(String[] args) {
-
-        int a = 4;
+        int a = 3;
         boolean type = true;
         if (a > 0) {
             for (int p = 2; p < a; p++) {
