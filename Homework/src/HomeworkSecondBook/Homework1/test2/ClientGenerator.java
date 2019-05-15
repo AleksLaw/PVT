@@ -1,7 +1,6 @@
-package HomeworkSecondBook.Homework1.Test;
+package HomeworkSecondBook.Homework1.test2;
 
-import HomeworkSecondBook.Homework1.test2.Line;
-import HomeworkSecondBook.Homework1.test2.Size;
+import HomeworkSecondBook.Homework1.Test.Client;
 
 import java.util.Random;
 
@@ -20,7 +19,7 @@ public class ClientGenerator implements Runnable{
         while (count < clientCount) {
             Thread.currentThread().setName(" Появился клиент");
             count++;
-            line.add(new Client(getRandomSize(), getRandomType()));
+            line.add(new Client(getRandomSize()));
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
@@ -29,10 +28,7 @@ public class ClientGenerator implements Runnable{
         }
     }
 
-    private Type getRandomType() {
-        Random random = new Random();
-        return Type.values()[random.nextInt(Type.values().length)];
-    }
+
 
     private Size getRandomSize() {
         Random random = new Random();

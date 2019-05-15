@@ -1,15 +1,13 @@
-package HomeworkSecondBook.Homework1.Test;
-
-import HomeworkSecondBook.Homework1.test2.Size;
+package HomeworkSecondBook.Homework1.test2;
 
 public class Client {
     private int count;
     private Size clientSize;
-    private Type clientType;
 
-    public Client(Size size, Type type) {
+
+    public Client(Size size) {
         this.clientSize = size;
-        this.clientType = type;
+
     }
 
     public void add(int count) {
@@ -27,9 +25,7 @@ public class Client {
         return count;
     }
 
-    public Type getType() {
-        return clientType;
-    }
+
 
     public Size getSize() {
         return clientSize;

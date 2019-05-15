@@ -1,7 +1,7 @@
-package HomeworkSecondBook.Homework1.Port;
+package HomeworkSecondBook.Homework1.test2;
 
 public enum Size {
-    Ten(10), Twenty(20), Thersty(30);
+    o50(50), o100(100), o150(150);
 
     Size(int id) {
         this.id = id;

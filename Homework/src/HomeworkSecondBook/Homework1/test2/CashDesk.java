@@ -1,14 +1,14 @@
-package HomeworkSecondBook.Homework1.Test;
+package HomeworkSecondBook.Homework1.test2;
 
-import HomeworkSecondBook.Homework1.test2.Line;
+
+import HomeworkSecondBook.Homework1.Test.Client;
 
 public class CashDesk implements Runnable {
     private Line line;
-    private Type clientType;
 
-    public CashDesk(Line line, Type clientType) {
+    public CashDesk(Line line) {
         this.line = line;
-        this.clientType =clientType;
+
     }
 
     @Override
@@ -16,11 +16,11 @@ public class CashDesk implements Runnable {
 
         while (true) {
             try {
-                Thread.currentThread().setName("Затавариваемся "+clientType);
+
 
                 //Time to load the goods
-                Thread.sleep(800);
-                Client client = line.get(clientType);
+                Thread.sleep(400);
+                Client client = line.get();
                 if(client!=null)
                     while (client.countCheck()){
                         Thread.sleep(100);
