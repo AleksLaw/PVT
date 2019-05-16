@@ -1,4 +1,4 @@
-package Lesson14;
+package Lesson14.BarberShop2;
 
 public class Client implements Runnable {
 
@@ -13,10 +13,7 @@ public class Client implements Runnable {
         try {
             if (barberShop.isOpen()) {
                 barberShop.newClient();
-            } else {
-                System.out.println("Client: BarberShop is close");
             }
-            Thread.sleep(3000);
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -1,4 +1,4 @@
-package Lesson14;
+package Lesson14.BarberShop2;
 
 public class Parfume {
 

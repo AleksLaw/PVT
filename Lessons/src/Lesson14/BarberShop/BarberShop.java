@@ -1,4 +1,4 @@
-package Lesson14;
+package Lesson14.BarberShop;
 
 
 import java.util.ArrayList;
@@ -23,7 +23,7 @@ public class BarberShop {
 
     public void setOpen(boolean open) {
         isOpen = open;
-        System.out.println("BarberShop: " + (open ? "Open" : "Closed"));
+        System.out.println("BarberShop2: " + (open ? "Open" : "Closed"));
     }
 
     public boolean isBusy() {
@@ -55,10 +55,10 @@ public class BarberShop {
     public synchronized void newClient() {
         try {
             String clientName = Thread.currentThread().getName();
-            System.out.println("BarberShop: new client: " + clientName);
+            System.out.println("BarberShop2: new client: " + clientName);
             while(this.clientName != null) {
                 Thread.sleep(500);
-                System.out.println("BarberShop: client " + clientName + " is waiting");
+                System.out.println("BarberShop2: client " + clientName + " is waiting");
             }
             this.clientName = clientName;
 
@@ -74,12 +74,12 @@ public class BarberShop {
                 Parfume parfume = takeParfume();
 
                 setBusy(true);
-                System.out.println("BarberShop: " + barberName + " takes " + parfume);
-                System.out.println("BarberShop: " + barberName + " is serving " + clientName);
+                System.out.println("BarberShop2: " + barberName + " takes " + parfume);
+                System.out.println("BarberShop2: " + barberName + " is serving " + clientName);
                 Thread.sleep(2000);
 
                 setBusy(false);
-                System.out.println("BarberShop: " + barberName + " finished " + clientName);
+                System.out.println("BarberShop2: " + barberName + " finished " + clientName);
                 this.clientName = null;
             }
         } catch (Exception e) {
