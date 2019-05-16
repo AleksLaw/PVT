@@ -1,4 +1,4 @@
-package Lesson14;
+package HomeworkSecondBook.BarberShop;
 
 public class Barber implements Runnable {
 
