@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/BarberShop.java" line="96" />
+    <bookmark url="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/BarberShop.java" line="96" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop/Barber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Barber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop/BarberShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/BarberShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop/Parfume.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Parfume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/src/Lesson14/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/src/Lesson14/Client.java" afterDir="false" />
     </list>
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/out/" />
@@ -32,7 +25,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Main.java">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
@@ -41,7 +34,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Client.java">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
@@ -49,8 +42,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/BarberShop.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/BarberShop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="349">
               <caret line="109" column="5" lean-forward="true" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
@@ -71,7 +64,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Barber.java">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Barber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/BarberShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Parfume.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/Barber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
               <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
@@ -124,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Port/Tunnel.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Port/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Buyer.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Line.java" />
@@ -175,6 +215,7 @@
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Client.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/BarberShop.java" />
+        <option value="$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/BarberShop.java" />
       </list>
     </option>
   </component>
@@ -254,14 +295,6 @@
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
-              <item name="BarberShop2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
               <item name="Homework1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -281,6 +314,14 @@
               <item name="Lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson14" type="462c0819:PsiDirectoryNode" />
+              <item name="BarberShop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,7 +380,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Homework08">
     <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeworkFirstBook.Homework1_16.Homework08.Homework08" />
       <module name="Homework" />
@@ -459,7 +500,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Homework08" />
         <item itemvalue="Application.Main" />
@@ -477,13 +517,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556387048370</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Homework and Lessons">
-      <created>1556727624848</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1556727624848</updated>
     </task>
     <task id="LOCAL-00021" summary="Homework and Lessons">
       <created>1556727655310</created>
@@ -821,7 +854,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558023799567</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Homework and Lessons">
+      <created>1558035381894</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1558035381894</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView">
@@ -835,6 +875,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -845,7 +886,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32502398" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" visible="true" weight="0.42473635" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" weight="0.42473635" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44829425" weight="0.33152762" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -981,62 +1022,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/Barber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1012#1013#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/Parfume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/CashDesk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1079,14 +1064,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Main.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Parfume.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/Parfume.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -1096,7 +1081,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Barber.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/Barber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
@@ -1107,14 +1092,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/Client.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/BarberShop2/BarberShop.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop2/BarberShop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="109" column="5" lean-forward="true" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
@@ -1130,6 +1115,44 @@
             <element signature="e#1048#1049#0" expanded="true" />
             <element signature="e#1089#1090#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Barber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/BarberShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson14/BarberShop/Parfume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
