@@ -1,4 +1,4 @@
-package HomeworkSecondBook.Homework2.Factory;
+package HomeworkSecondBook.Homework2.FactoryIfClass;
 
 public class LuxuryCar extends Car{
 

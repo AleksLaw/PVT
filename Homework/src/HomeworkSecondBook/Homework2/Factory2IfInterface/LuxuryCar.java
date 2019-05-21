@@ -1,10 +1,10 @@
-package HomeworkSecondBook.Homework2.Factory2;
+package HomeworkSecondBook.Homework2.Factory2IfInterface;
 
-public class SmallCar implements Car {
+public class LuxuryCar implements Car {
 
     @Override
     public CarType getModel() {
-        return CarType.SMALL;
+        return CarType.LUXURY;
     }
 
     @Override
@@ -19,6 +19,6 @@ public class SmallCar implements Car {
 
     @Override
     public void construct() {
-        System.out.println("Склепали новое Маленькое авто");
+        System.out.println("Склепали новое Люксовое авто");
     }
 }

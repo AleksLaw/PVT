@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="Homework and Lessons">
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/LuxuryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SedanCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SmallCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/CarFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/CarType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/LuxuryCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/SedanCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/SmallCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/CarType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/CarType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/LuxuryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/LuxuryCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/SedanCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/SedanCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/SmallCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/SmallCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/CarType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/LuxuryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/LuxuryCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SedanCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/SedanCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SmallCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/SmallCar.java" afterDir="false" />
     </list>
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/out/" />
@@ -36,7 +37,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarType.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/CarType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
@@ -45,16 +46,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarFactory.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/CarFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="340">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/Car.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -62,53 +63,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/LuxuryCar.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/LuxuryCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SmallCar.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-              </folding>
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SedanCar.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/CarFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/SmallCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/SedanCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -155,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Test/Main.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Test/Line.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/test2/Test/Line.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Test/CashDesk.java" />
@@ -206,6 +200,7 @@
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/SedanCar.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/Factory2/Car.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/LuxuryCar.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/Car.java" />
       </list>
     </option>
   </component>
@@ -263,24 +258,7 @@
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
               <item name="Homework2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework2" type="462c0819:PsiDirectoryNode" />
-              <item name="Factory2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,6 +331,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CarFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework2.FactoryIfClass.CarFactory" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkSecondBook.Homework2.FactoryIfClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework2.Factory2IfInterface.CarFactory" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkSecondBook.Homework2.Factory2IfInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeworkFirstBook.Homework1_16.Homework08.Homework08" />
       <module name="Homework" />
@@ -372,32 +376,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HomeworkSecondBook.Homework1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework1.Homework1.Test.Main" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeworkSecondBook.Homework1.Homework1.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework1.Main1" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeworkSecondBook.Homework1.Homework1.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -475,8 +453,6 @@
         <item itemvalue="Application.CarFactory" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Homework08" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -849,7 +825,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23933902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24466951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -858,7 +834,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32502398" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" visible="true" weight="0.42473635" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" weight="0.42473635" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44829425" weight="0.3307766" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -902,8 +878,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Port/Ship.java" />
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Port/ShipGenerator.java" />
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Port/Size.java" />
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Port/PierLoader.java" />
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Port/Tunnel.java" />
@@ -1100,28 +1074,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/CarType.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/CarType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SedanCar.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/LuxuryCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/FactoryIfClass/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/SmallCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -1136,7 +1124,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/SmallCar.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/SedanCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -1151,18 +1139,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/LuxuryCar.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-          </folding>
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>

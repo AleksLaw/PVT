@@ -1,4 +1,4 @@
-package HomeworkSecondBook.Homework2.Factory2;
+package HomeworkSecondBook.Homework2.Factory2IfInterface;
 
 public interface Car {
 
