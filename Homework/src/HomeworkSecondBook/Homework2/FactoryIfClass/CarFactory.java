@@ -1,4 +1,6 @@
 package HomeworkSecondBook.Homework2.FactoryIfClass;
+//Задание
+// Сделать фабрику по производству машин по Диаграмме классов на слайде 22!
 
     public class CarFactory {
 

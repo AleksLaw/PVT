@@ -1,4 +1,7 @@
 package HomeworkSecondBook.Homework2.Factory2IfInterface;
+//Задание
+// Сделать фабрику по производству машин по Диаграмме классов на слайде 22!
+//        Обратите внимание, что Car на диаграмме это интерфейс!
 
 public class CarFactory {
 
