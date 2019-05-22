@@ -9,20 +9,21 @@ public class Main {
     public Main() {
     }
 
-
     // Я вывихнул себе мозги
 
     public void print(MinMax minMax) {
-        Random random = new Random();
-        int a1 = random.nextInt(100);
-        int a2 = random.nextInt(100);
+        Random random = new Random();      // изза создания нового экземплра Random в методе print он перед каждой лямбдой генерит свои цифры
+        int a1;
+        int a2;
+        System.out.println(minMax.minMaxInter(a1 = random.nextInt(100), a2= random.nextInt(100)));
         System.out.println(a1 + " Первое число");
         System.out.println(a2 + " Второе число");
-        System.out.println(minMax.minMaxInter(a1, a2));
+
     }
 
-
     public static void main(String[] args) {
+
+
 
         Main main = new Main();
         System.out.println("Минимум");
