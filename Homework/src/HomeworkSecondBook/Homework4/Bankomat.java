@@ -290,7 +290,7 @@ public class Bankomat {
                 System.out.println(lang.getString("qw1") + (count20 * 20 + count50 * 50 + count100 * 100) + lang.getString("qw2") + lang.getString("qw3") + count20 + lang.getString("w2") + "$50 -> " + count50 + lang.getString("w2") + "$100 -> " + count100 + lang.getString("w2"));
             } else
                 System.out.println(lang.getString("a1") + lang.getString("a2") + ("$20-" + temp20 + lang.getString("w2") + " $50-" + temp50 + lang.getString("w2") + " $100-" + temp100 + lang.getString("w2") + lang.getString("w3") + (temp20 * 20 + temp50 * 50 + temp100 * 100) + "$"));
-        }System.out.println(lang.getString("a1") + lang.getString("a2") + ("$20-" + temp20 + lang.getString("w2") + " $50-" + temp50 + lang.getString("w2") + " $100-" + temp100 + lang.getString("w2") + lang.getString("w3") + (temp20 * 20 + temp50 * 50 + temp100 * 100) + "$"));
+        }
     }
 
     public void getMoney() { //получение денег
