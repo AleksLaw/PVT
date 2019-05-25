@@ -5,27 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/resources/BankomatBungle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/resources/BankomatBungle_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/resources/BankomatBungle_ru_RU.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/resources/MyBundle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/resources/MyBundle_be_BE.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/resources/MyBundle_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/resources/MyBundle_ru_RU.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson17/Candidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson17/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson18/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson18/text/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/resources1/BankomatBundle_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/resources1/BankomatBundle_ru_RU.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lessons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework23/Bankomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework23/Bankomat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/resources/BankomatBungle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/resources/BankomatBungle_en_US.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/resources/BankomatBungle_ru_RU.properties" beforeDir="false" />
     </list>
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/out/" />
@@ -43,20 +33,71 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson18/text/Main3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="65" selection-start-line="14" selection-start-column="7" selection-end-line="15" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.21641791">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle_en_US.properties">
+              <provider editor-type-id="ResourceBundle" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="280">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://BankomatBundle">
+              <provider selected="true" editor-type-id="ResourceBundle" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle_ru_RU.properties">
+              <provider editor-type-id="ResourceBundle" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="420">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="304" column="62" selection-start-line="304" selection-start-column="62" selection-end-line="304" selection-end-column="62" />
+                  <folding>
+                    <element signature="method#add$20#0;class#Bankomat#0" />
+                    <element signature="method#add$50#0;class#Bankomat#0" />
+                    <element signature="method#add$100#0;class#Bankomat#0" />
+                    <element signature="e#3897#3898#0" expanded="true" />
+                    <element signature="e#3996#3997#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework23/Bankomat.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="540">
+                  <caret line="284" column="62" selection-start-line="284" selection-start-column="62" selection-end-line="284" selection-end-column="62" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,6 +123,10 @@
       <find>rand</find>
       <find>cou</find>
       <find>ele</find>
+      <find>Количество денег в банкомате =</find>
+      <find>шт.</find>
+      <find>Итого</find>
+      <find>Количество денег в банкомате =</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -98,12 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/LuxuryCar.java" />
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/SmallCar.java" />
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/SedanCar.java" />
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory/Factory2/Car.java" />
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2/LuxuryCar.java" />
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/Car.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson15/Client.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson15/Kithen.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson15/Main.java" />
@@ -136,7 +175,6 @@
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework25/DebitCreditCard.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/DebitCreditCard.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework23/Bankomat.java" />
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson17/Candidate.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson17/Employee.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson17/Main.java" />
@@ -149,6 +187,13 @@
         <option value="$PROJECT_DIR$/Homework/Resourses/MyBundle_ru_RU.properties" />
         <option value="$PROJECT_DIR$/Homework/resources/MyBundle.properties" />
         <option value="$PROJECT_DIR$/Lessons/resources/MyBundle.properties" />
+        <option value="$PROJECT_DIR$/Homework/resources1/BankomatBungle_ru_RU.properties" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main2.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java" />
+        <option value="$PROJECT_DIR$/Homework/resources1/BankomatBundle_ru_RU.properties" />
+        <option value="$PROJECT_DIR$/Homework/resources1/BankomatBundle_en_US.properties" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework23/Bankomat.java" />
       </list>
     </option>
   </component>
@@ -189,6 +234,19 @@
               <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="resources1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="resources1" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource Bundle 'BankomatBundle'" type="a6c14932:ResourceBundleNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,7 +254,24 @@
               <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkFirstBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkFirstBook" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework17_33" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkFirstBook" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework17_33" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework23" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
@@ -204,7 +279,6 @@
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
@@ -229,21 +303,7 @@
               <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
               <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource Bundle 'BankomatBungle'" type="a6c14932:ResourceBundleNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
@@ -325,6 +385,7 @@
       <recent name="Homework05" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PVThomework_Aleksandr.law-gmail.com\Homework\resources" />
       <recent name="E:\PVThomework_Aleksandr.law-gmail.com\Lessons\resources" />
       <recent name="E:\PVThomework_Aleksandr.law-gmail.com\Lessons\src" />
     </key>
@@ -356,7 +417,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main3">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="CarFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework2.Factory2IfInterface.CarFactory" />
       <module name="Homework" />
@@ -383,12 +444,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson16.Main" />
-      <module name="Lessons" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework4.Main" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson16.*" />
+          <option name="PATTERN" value="HomeworkSecondBook.Homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -502,11 +563,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -520,13 +581,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556387048370</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Homework and Lessons">
-      <created>1556741709427</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1556741709427</updated>
     </task>
     <task id="LOCAL-00026" summary="Homework and Lessons">
       <created>1556744240380</created>
@@ -864,7 +918,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558805845926</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Homework and Lessons">
+      <created>1558807984558</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1558807984558</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView">
@@ -877,10 +938,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -889,14 +950,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32502398" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" visible="true" weight="0.42377755" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" visible="true" weight="0.10834132" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44829425" weight="0.3307766" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32981783" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" weight="0.32569557" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.3279003" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.47125566" weight="0.32214764" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" weight="0.32981783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -909,6 +970,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32502398" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" weight="0.42377755" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44829425" weight="0.3307766" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32981783" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.3279003" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.47125566" weight="0.32214764" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" weight="0.32981783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.07675906" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -933,13 +1024,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/SedanCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework2/Factory2IfInterface/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1016,9 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="64" />
-          <folding>
-            <marker date="1558455678917" expanded="true" signature="71:208" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,32 +1144,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/BankCard.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/RFidTehnologue.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/DebitCreditCard.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/BankCard.java" />
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/RFidTehnologue.java" />
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/DebitCreditCard.java" />
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson18/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1139,41 +1201,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson18/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ResourceBundle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="2054" column="14" selection-start-line="2054" selection-start-column="14" selection-end-line="2054" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/resources/MyBundle_MyBundle.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/resources/MyBundle_MyBundle.properties" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson17/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -1227,29 +1255,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/resources/BankomatBungle_be_BE.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/resources/BankomatBungle.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/resources/BankomatBungle_en_US.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/resources/BankomatBungle_ru_RU.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson18/text/Main3.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/resources/BankomatBungle_be_BE.properties" />
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ResourceBundle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="65" selection-start-line="14" selection-start-column="7" selection-end-line="15" selection-end-column="76" />
+        <state relative-caret-position="191">
+          <caret line="927" column="43" lean-forward="true" selection-start-line="927" selection-start-column="43" selection-end-line="927" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson18/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson18/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson18/text/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle.properties" />
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle_en_US.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle_ru_RU.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="304" column="62" selection-start-line="304" selection-start-column="62" selection-end-line="304" selection-end-column="62" />
+          <folding>
+            <element signature="method#add$20#0;class#Bankomat#0" />
+            <element signature="method#add$50#0;class#Bankomat#0" />
+            <element signature="method#add$100#0;class#Bankomat#0" />
+            <element signature="e#3897#3898#0" expanded="true" />
+            <element signature="e#3996#3997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework23/Bankomat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="284" column="62" selection-start-line="284" selection-start-column="62" selection-end-line="284" selection-end-column="62" />
         </state>
       </provider>
     </entry>
