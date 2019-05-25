@@ -5,7 +5,7 @@ import java.util.ResourceBundle;
 import java.util.Scanner;
 
 public class Bankomat {
-    private ResourceBundle lang;
+    private static ResourceBundle lang;
     private int $20;
     private int $50;
     private int $100;
@@ -104,7 +104,7 @@ public class Bankomat {
             }
 
         }
-        System.out.println("Всего хорошего! Приходите еще");
+        System.out.println(lang.getString("Всего хорошего! Приходите еще"));
     }
 
     public void printTotal() { // сумма денег в банкомате
@@ -287,10 +287,10 @@ public class Bankomat {
             }
 
             if (count100 > 0 || count50 > 0 || count20 > 0) {
-                System.out.println(lang.getString("Указанную сумму: ") + (count20 * 20 + count50 * 50 + count100 * 100) + lang.getString("$ можно получить") + lang.getString(" купюрами номиналам $20 -> ") + count20 + lang.getString("w2") + "$50 -> " + count50 + lang.getString("w2") + "$100 -> " + count100 + lang.getString("w2"));
+                System.out.println(lang.getString("qw1") + (count20 * 20 + count50 * 50 + count100 * 100) + lang.getString("qw2") + lang.getString("qw3") + count20 + lang.getString("w2") + "$50 -> " + count50 + lang.getString("w2") + "$100 -> " + count100 + lang.getString("w2"));
             } else
-                System.out.println("Данную сумму выдать нельзя " + "Купюры в банкомате " + ("$20-" + temp20 + lang.getString("w2") + " $50-" + temp50 + lang.getString("w2") + " $100-" + temp100 + lang.getString("w2") + lang.getString("w3") + (temp20 * 20 + temp50 * 50 + temp100 * 100) + "$"));
-        }System.out.println("Данную сумму выдать нельзя " + "Купюры в банкомате " + ("$20-" + temp20 + lang.getString("w2") + " $50-" + temp50 + lang.getString("w2") + " $100-" + temp100 + lang.getString("w2") + lang.getString("w3") + (temp20 * 20 + temp50 * 50 + temp100 * 100) + "$"));
+                System.out.println(lang.getString("a1") + lang.getString("a2") + ("$20-" + temp20 + lang.getString("w2") + " $50-" + temp50 + lang.getString("w2") + " $100-" + temp100 + lang.getString("w2") + lang.getString("w3") + (temp20 * 20 + temp50 * 50 + temp100 * 100) + "$"));
+        }System.out.println(lang.getString("a1") + lang.getString("a2") + ("$20-" + temp20 + lang.getString("w2") + " $50-" + temp50 + lang.getString("w2") + " $100-" + temp100 + lang.getString("w2") + lang.getString("w3") + (temp20 * 20 + temp50 * 50 + temp100 * 100) + "$"));
     }
 
     public void getMoney() { //получение денег
@@ -299,7 +299,7 @@ public class Bankomat {
         int count50 = 0;
         int count100 = 0;
         boolean one50 = true;
-        int a = readInteger(scanner, "Введите сумму которую вы бы хотели снять");
+        int a = readInteger(scanner, lang.getString("Введите сумму которую вы бы хотели снять"));
         int summa = a;
 
         if (summa <= getTotalSumm() && summa > 0&& summa%10==0) {
@@ -460,10 +460,10 @@ public class Bankomat {
         }
 
         if ((count100 * 100 + count50 * 50 + count20 * 20) > 0) {
-            System.out.println("Итого на руки получено: " + (count20 * 20 + count50 * 50 + count100 * 100) + "$ Купюрами $20 -> " + count20 + " шт " + "$50 -> " + count50 + " шт " + "$100 -> " + count100 + " шт ");
+            System.out.println(lang.getString("z1") + (count20 * 20 + count50 * 50 + count100 * 100) + lang.getString("qw3") + count20 + lang.getString("w2") + "$50 -> " + count50 + lang.getString("w2") + "$100 -> " + count100 + lang.getString("w2"));
             System.out.println(lang.getString("w0") + ("$20-" + this.$20 + lang.getString("w2") + " $50-" + this.$50 + lang.getString("w2") + " $100-" + this.$100 + lang.getString("w2") + lang.getString("w3") + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + "$"));
         } else
-            System.out.println("Данную сумму выдать нельзя " + lang.getString("w0") + ("$20-" + this.$20 + lang.getString("w2") + " $50-" + this.$50 + lang.getString("w2") + " $100-" + this.$100 + lang.getString("w2") + lang.getString("w3") + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + "$"));
+            System.out.println(lang.getString("a1") + lang.getString("w0") + ("$20-" + this.$20 + lang.getString("w2") + " $50-" + this.$50 + lang.getString("w2") + " $100-" + this.$100 + lang.getString("w2") + lang.getString("w3") + (this.$20 * 20 + this.$50 * 50 + this.$100 * 100) + "$"));
     }
 
     public Bankomat(int $20, int $50, int $100) {
@@ -480,11 +480,11 @@ public class Bankomat {
             try {
                 a = Integer.parseInt(a1);
             } catch (NumberFormatException e) {
-                System.out.println("Введено не целое число");
+                System.out.println(lang.getString("Введено не целое число"));
                 break;
             }
             if (a < 0) {
-                System.out.println("Слишком мало, не жадничайте они все равно не ваши");
+                System.out.println(lang.getString("Слишком мало, не жадничайте они все равно не ваши"));
             } else {
                 return a;
             }
