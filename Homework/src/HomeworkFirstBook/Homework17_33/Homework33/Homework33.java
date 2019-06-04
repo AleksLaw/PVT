@@ -9,16 +9,16 @@ public class Homework33 {
     public static void main(String[] args) {
         File folder = new File("C:/Windows");
         File[] listOfFiles = folder.listFiles();
-        System.out.println("Список файлов");
-        for (int i = 0; i < listOfFiles.length; i++) {
-            if (listOfFiles[i].isFile()) {
-                System.out.println("Файл "+ listOfFiles[i].getName());
-            }
-        }
-        System.out.println("\n"+"Список каталогов");
+        System.out.println("Список каталогов");
         for (int i = 0; i < listOfFiles.length; i++) {
             if (listOfFiles[i].isDirectory()) {
                 System.out.println("Каталог " + listOfFiles[i].getName());
+            }
+        }
+        System.out.println("\n"+"Список файлов");
+        for (int i = 0; i < listOfFiles.length; i++) {
+            if (listOfFiles[i].isFile()) {
+                System.out.println("Файл "+ listOfFiles[i].getName());
             }
         }
     }
