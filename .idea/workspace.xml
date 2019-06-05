@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework5.java" afterDir="false" />
     </list>
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/out/" />
@@ -27,10 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -66,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
+              <caret line="13" column="59" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -74,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/io/File.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="20009">
               <caret line="1217" column="18" selection-start-line="1217" selection-start-column="18" selection-end-line="1217" selection-end-column="18" />
             </state>
           </provider>
@@ -129,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lessons/src/Lesson16/RandomIntGenerator1.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson16/RandomIntGenerator.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson16/NumberPrinter.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Main.java" />
@@ -180,6 +178,7 @@
         <option value="$PROJECT_DIR$/Lessons/src/Lesson19/Main2.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework5.java" />
       </list>
     </option>
   </component>
@@ -278,14 +277,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559731427413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559734131899" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -481,13 +480,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556387048370</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Homework and Lessons">
-      <created>1556878843929</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1556878843929</updated>
     </task>
     <task id="LOCAL-00032" summary="Homework and Lessons">
       <created>1556879247590</created>
@@ -825,7 +817,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559731094490</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Homework and Lessons">
+      <created>1559731471760</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1559731471760</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TodoView">
@@ -841,7 +840,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -850,7 +849,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32502398" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" visible="true" weight="0.43878657" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" weight="0.43878657" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44829425" weight="0.33044422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1015,36 +1014,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/resources/MyBundle_be_BE.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/resources/MyBundle_en_US.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/resources/MyBundle_ru_RU.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/resources/MyBundle.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/resources/BankomatBungle_be_BE.properties" />
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ResourceBundle.java" />
@@ -1081,12 +1080,12 @@
     <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle.properties" />
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Main2.java" />
     <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle_en_US.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1106,12 +1105,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/resources1/BankomatBundle_ru_RU.properties">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework23/Bankomat.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1155,7 +1154,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1223,13 +1221,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="1217" column="18" selection-start-line="1217" selection-start-column="18" selection-end-line="1217" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework32/Homework32.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1241,6 +1232,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1261,21 +1266,14 @@
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java">
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="20009">
+          <caret line="1217" column="18" selection-start-line="1217" selection-start-column="18" selection-end-line="1217" selection-end-column="18" />
         </state>
       </provider>
     </entry>

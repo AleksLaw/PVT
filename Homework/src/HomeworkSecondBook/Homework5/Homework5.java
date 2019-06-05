@@ -9,22 +9,16 @@ public class Homework5 implements Runnable {
     static String dir = "c:/Windows";
     volatile File folder = new File(dir);
     volatile File[] listOfFiles;
-    private boolean isDirBusy = true;
-    private boolean isFileBusy = true;
 
 
     private synchronized void getFile(File[] d) {
         try {
-            while (isDirBusy) {
-
                 for (int i = 0; i < d.length; i++) {
                     if (d[i].isFile()) {
                         System.out.println("Файл " + d[i].getName() + "   " + Thread.currentThread().getName());
                     }
                 }
-                isDirBusy = false;
-                break;
-            }
+
         } catch (Exception e) {
             System.out.println(  "Нет такого каталога");
         }
@@ -32,16 +26,11 @@ public class Homework5 implements Runnable {
 
     private synchronized void getDir(File[] s) {
         try {
-            while (isFileBusy) {
-
                 for (int i = 0; i < s.length; i++) {
                     if (s[i].isDirectory()) {
                         System.out.println("Каталог " + s[i].getName() + "   " + Thread.currentThread().getName());
                     }
                 }
-                isFileBusy = false;
-                break;
-            }
         } catch (Exception e) {
             System.out.println(  "Нет такого каталога");
         }
@@ -56,8 +45,6 @@ public class Homework5 implements Runnable {
     @Override
     public void run() {
         listOfFiles = folder.listFiles();
-
-
 
         if (Thread.currentThread().getName().equals("Thread-0")) {
             getDir(listOfFiles);
