@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d676fa10-f1a9-4b23-a1df-bfc64ed33fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson19/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson19/secure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson19/secure/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson19/test/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/src/Lesson19/test/OneArgumentConstructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/HomeworkFirstBook/Homework17_33/Homework33/Homework33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/HomeworkFirstBook/Homework17_33/Homework33/Homework33.class" afterDir="false" />
     </list>
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/out/" />
@@ -30,92 +26,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/Main.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/CashDesk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/secure/Main.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/secure/Singleton.java">
+        <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#194#863#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/test/Car.java">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/io/File.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-              <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-                <element signature="e#877#878#0" expanded="true" />
-                <element signature="e#928#929#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/test/OneArgumentConstructor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="188">
+              <caret line="1217" column="18" selection-start-line="1217" selection-start-column="18" selection-end-line="1217" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -212,7 +163,6 @@
         <option value="$PROJECT_DIR$/Homework/resources1/BankomatBundle_en_US.properties" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework4/Bankomat.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework23/Bankomat.java" />
-        <option value="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java" />
         <option value="$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson19/secure/Main.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson19/secure/Singleton.java" />
@@ -220,6 +170,7 @@
         <option value="$PROJECT_DIR$/Lessons/src/Lesson19/test/Car.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson19/Main.java" />
         <option value="$PROJECT_DIR$/Lessons/src/Lesson19/Main2.java" />
+        <option value="$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java" />
       </list>
     </option>
   </component>
@@ -243,7 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,6 +223,30 @@
               <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkFirstBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkFirstBook" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework17_33" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkFirstBook" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework17_33" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework33" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -281,50 +255,20 @@
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HomeworkSecondBook" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PVThomework_Aleksandr.law-gmail.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson19" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559641738855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559730752544" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -382,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Homework33">
+  <component name="RunManager" selected="Application.Homework33 (1)">
     <configuration name="Homework33 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeworkFirstBook.Homework17_33.Homework33.Homework33" />
       <module name="Homework" />
@@ -435,12 +379,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson18.text.Main3" />
-      <module name="Lessons" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework1.Main" />
+      <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson18.text.*" />
+          <option name="PATTERN" value="HomeworkSecondBook.Homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,12 +392,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkSecondBook.Homework1.Main" />
-      <module name="Homework" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.text.Main3" />
+      <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkSecondBook.Homework1.*" />
+          <option name="PATTERN" value="Lesson18.text.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -502,8 +446,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework33" />
         <item itemvalue="Application.Homework33 (1)" />
+        <item itemvalue="Application.Homework33" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main3" />
@@ -520,13 +464,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556387048370</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Homework and Lessons">
-      <created>1556815732833</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1556815732833</updated>
     </task>
     <task id="LOCAL-00029" summary="Homework and Lessons">
       <created>1556831467634</created>
@@ -864,7 +801,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559641284106</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Homework and Lessons">
+      <created>1559641750040</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1559641750041</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TodoView">
@@ -877,10 +821,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3391685" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -889,8 +833,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32502398" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.779879" weight="0.43878657" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44829425" weight="0.3307766" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.779879" visible="true" weight="0.43878657" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44829425" weight="0.33044422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
@@ -898,7 +842,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" weight="0.32569557" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.3279003" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.47125566" weight="0.3217768" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" visible="true" weight="0.33260393" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49946696" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.07675906" />
@@ -963,10 +907,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework3/WorkerInterfaceTest.java" />
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework3/WorkerInterface.java" />
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework3/TestLambda.java" />
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson16/IntegerSum.java" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson16/IntegerSumImpl.java" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson16/NumberPrinter.java" />
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson16/Main2.java" />
@@ -1164,20 +1104,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework32/Homework32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework31/Homework31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework30/Homework30.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1213,26 +1139,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java">
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework5/Homework33.java" />
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/secure/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="476">
           <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1242,20 +1162,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/secure/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="646">
           <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#194#863#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/test/OneArgumentConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1264,7 +1172,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/test/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
+        <state relative-caret-position="765">
           <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="e#176#177#0" expanded="true" />
@@ -1279,10 +1187,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/Main.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/Lesson19/test/OneArgumentConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        <state relative-caret-position="136">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1296,6 +1204,55 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1217" column="18" selection-start-line="1217" selection-start-column="18" selection-end-line="1217" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework32/Homework32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework31/Homework31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/CashDesk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkSecondBook/Homework1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/src/HomeworkFirstBook/Homework17_33/Homework33/Homework33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
         </state>
       </provider>
     </entry>
