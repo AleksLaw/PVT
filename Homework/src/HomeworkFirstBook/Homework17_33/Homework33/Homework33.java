@@ -6,7 +6,7 @@ package HomeworkFirstBook.Homework17_33.Homework33;
 import java.io.File;
 
 public class Homework33 implements Runnable {
-    static String dir = "e:/1";
+    static String dir = "c:/Windows";
     volatile File folder = new File(dir);
     volatile File[] listOfFiles;
     private boolean isDirBusy = true;
@@ -26,7 +26,7 @@ public class Homework33 implements Runnable {
                 break;
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println(  "Нет такого каталога");
         }
     }
 
@@ -43,7 +43,7 @@ public class Homework33 implements Runnable {
                 break;
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println(  "Нет такого каталога");
         }
     }
 
@@ -56,6 +56,9 @@ public class Homework33 implements Runnable {
     @Override
     public void run() {
         listOfFiles = folder.listFiles();
+
+
+
         if (Thread.currentThread().getName().equals("Thread-0")) {
             getDir(listOfFiles);
         } else {
